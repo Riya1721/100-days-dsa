@@ -8,3 +8,4 @@
 | Day 3 | Linear Search in array
 |       | Linear Search in 2D array
 |       | Find Numbers with Even Number of Digits in an array
+| Day 4  |Richest Customer Wealth(Leetcode)
