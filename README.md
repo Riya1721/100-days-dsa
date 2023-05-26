@@ -14,3 +14,4 @@ I am learning DSA and I will adding here the questions which i practice while le
 | Day 5  | Sort an array of which consists of only 0,1,2
 |        | Convert an array to reduced form (HashMap)
 | Day 6  | Find Ceil and Floor of target in a sorted array
+|        | Next greatest Letter in array
