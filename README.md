@@ -15,3 +15,4 @@ I am learning DSA and I will adding here the questions which i practice while le
 |        | Convert an array to reduced form (HashMap)
 | Day 6  | Find Ceil and Floor of target in a sorted array
 |        | Next greatest Letter in array
+|Day 7    | Find the start and end position of element in a sorted array
