@@ -1,4 +1,4 @@
-I am learning DSA and I will adding here the questions which i practice while learning about some topic for 100 days.
+I am learning DSA and I will be adding here the questions which i practice while learning about some topic for 100 days.
 
 # 100-days-dsa
 | Day    | Topic  
