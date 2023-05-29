@@ -18,4 +18,4 @@ I am learning DSA and I will adding here the questions which i practice while le
 |Day 7    | Find the start and end position of element in a sorted array
 | Day 8  | Find the index of an element in an infinite sorted array
 | Day 9  | Peak Index in a mountain array
-|Day 10  | Search in a mountain array
+|        | Search in a mountain array
