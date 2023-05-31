@@ -20,3 +20,5 @@ I am learning DSA and I will be adding here the questions which i practice while
 | Day 9  | Peak Index in a mountain array
 |        | Search in a mountain array
 | Day 10 | Search in rotated sorted array
+|        | Bubble sort
+|        | Selection sort
