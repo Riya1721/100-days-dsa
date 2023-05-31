@@ -19,3 +19,4 @@ I am learning DSA and I will be adding here the questions which i practice while
 | Day 8  | Find the index of an element in an infinite sorted array
 | Day 9  | Peak Index in a mountain array
 |        | Search in a mountain array
+| Day 10 | Search in rotated sorted array
