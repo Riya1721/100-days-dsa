@@ -23,3 +23,5 @@ I am learning DSA and I will be adding here the questions which i practice while
 |        | Bubble sort
 |        | Selection sort
 |         | Rearrange Array Elements by Sign
+|Day 11   | Insertion Sort
+|         | Cyclic sort
