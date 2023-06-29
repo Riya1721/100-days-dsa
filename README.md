@@ -25,3 +25,4 @@ I am learning DSA and I will be adding here the questions which i practice while
 |         | Rearrange Array Elements by Sign
 |Day 11   | Insertion Sort
 |         | Cyclic sort
+|Day 12   | Rotate the array to the right by k steps
